@@ -10,13 +10,11 @@ title: Publications
 
 - **Multi-Task Text Classification using Graph Convolutional Neural Networks for Resource-Poor Language**
  	Mounika Mareddy, Sireesha Vakada, Oota Subba reddy, Venkata Charan Chinni, Radhika Mamidi
- 	
- 	*NeurIPS 2020 WIML Workshop*
+ 	*[NeurIPS 2020 WIML Workshop](https://wimlworkshop.org/neurips2020/)*
 
 - **Unsupervised Graph based Telugu News Articles Text Summarization**
 	Mounika Mareddy, Sireesha Vakada, Oota Subba reddy, Venkata Charan Chinni, Radhika Mamidi
- 	
- 	*NeurIPS 2020 WIML Workshop*
+	*[NeurIPS 2020 WIML Workshop](https://wimlworkshop.org/neurips2020/)* 	
 
 <br /> 
 
